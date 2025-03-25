@@ -1,0 +1,25 @@
+{
+  "name": "codereviewer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Anubhav0807/CodeReviewer#readme",
+  "bugs": {
+    "url": "https://github.com/Anubhav0807/CodeReviewer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anubhav0807/CodeReviewer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  }
+}
